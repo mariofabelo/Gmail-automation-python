@@ -1,4 +1,4 @@
-## Gmail Automation for Gyms
+## Gmail Automation example for Gyms
 
 A simple Python script to send an HTML email to a list of gyms loaded from a CSV file. It supports a safe "test mode" that prints emails to the console without sending.
 
